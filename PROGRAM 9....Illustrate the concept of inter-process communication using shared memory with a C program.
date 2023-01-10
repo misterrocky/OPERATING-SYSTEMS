@@ -27,5 +27,5 @@ OUTPUT
 Key of shared memory is 0
 Process attached at 0x7f7d4321f000
 Enter some data to write to shared memory
-hi
-You wrote : hi
+hello
+You wrote : hello
